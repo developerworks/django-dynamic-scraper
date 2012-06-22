@@ -2,7 +2,7 @@
 django-dynamic-scraper
 ======================
 
-Django Dynamic Scraper (DDS) 是一个基于Scrapy爬虫框架的Django应用程序,它可以让你通过DJango管理节目创建和管理Scrapy蜘蛛. 它最初是为
+Django Dynamic Scraper (DDS) 是一个基于Scrapy爬虫框架的Django应用程序,它可以让你通过DJango创建和管理Scrapy蜘蛛. 它最初是为
 一个德国的webtv站点(http://fernsehsuche.de)开发的
 
 
